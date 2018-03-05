@@ -50,8 +50,6 @@ It is very easy to use PITest.
 The example above is the simplest. PITest provides various configurations very 
 well described into [PITest Maven Quick Start page][3].
 
-Simple example to learn about mutation testing using "pitest", maven plugin will 
-generate an html report with useful information about mutants.
 
 ## Run PITest
 
