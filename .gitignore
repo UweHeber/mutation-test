@@ -1,3 +1,6 @@
+# IDEA folder and files
 /.idea
+mutation-test.iml
 
+# Build artifacts
 /target
